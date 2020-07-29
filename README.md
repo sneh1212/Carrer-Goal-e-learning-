@@ -1,2 +1,3 @@
-# species_evolution
-This app show the evalution of vertibra species
+# e-learning application
+This app is used to prepare for interview purposes
+
